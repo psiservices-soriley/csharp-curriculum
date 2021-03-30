@@ -67,3 +67,5 @@
   - 64 bit implies 2^64 possible memory addresses
 
 - Namespaces as virtual folders
+
+- Pass by reference vs pass by value
