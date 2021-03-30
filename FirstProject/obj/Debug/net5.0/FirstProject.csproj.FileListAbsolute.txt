@@ -1,0 +1,16 @@
+C:\Users\rain\git\curriculum\FirstProject\bin\Debug\net5.0\FirstProject.exe
+C:\Users\rain\git\curriculum\FirstProject\bin\Debug\net5.0\FirstProject.deps.json
+C:\Users\rain\git\curriculum\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.json
+C:\Users\rain\git\curriculum\FirstProject\bin\Debug\net5.0\FirstProject.runtimeconfig.dev.json
+C:\Users\rain\git\curriculum\FirstProject\bin\Debug\net5.0\FirstProject.dll
+C:\Users\rain\git\curriculum\FirstProject\bin\Debug\net5.0\ref\FirstProject.dll
+C:\Users\rain\git\curriculum\FirstProject\bin\Debug\net5.0\FirstProject.pdb
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.csprojAssemblyReference.cache
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.AssemblyInfo.cs
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.dll
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\ref\FirstProject.dll
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.pdb
+C:\Users\rain\git\curriculum\FirstProject\obj\Debug\net5.0\FirstProject.genruntimeconfig.cache
