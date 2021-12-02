@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0i+uCSTKp4/ZGxDWBTXBi7X2PoHpkeTzrg/7xOyPqQrzDRoGj1+iBe9r0JWNqf5ZhBz1xPG+gXCk0+P/Ju/6KQ==",
+  "dgSpecHash": "hNWro+Dr2HVQvP43nc778oWKwJRXwWFBE+71rGj2JoW+XYYq90S2l6aGH70weK40hFhrYGghdwod+pj6ULd8zg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rain\\git\\curriculum\\FirstProject\\FirstProject.csproj",
+  "projectFilePath": "c:\\Users\\rain\\git\\csharp-curriculum\\lesson-2\\FirstProject\\FirstProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

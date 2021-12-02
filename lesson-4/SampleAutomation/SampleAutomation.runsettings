@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <TestRunParameters>
+        <Parameter name="environment" value="qa" />
+        <Parameter name="browser" value="chrome" />
+        <Parameter name="defaultImplicitWait" value="00:02:30" />
+        <Parameter name="defaultExplicitWait" value="00:02:30" />
+        <Parameter name="commandTimeout" value="10:00:00" />
+        <Parameter name="gridLocation" value="http://localhost:4444" />
+    </TestRunParameters>
+</RunSettings>
